@@ -551,6 +551,7 @@
 
 </details>
 
+- [Melaya](https://melaya.org) - Hosted agentic platform with a drag-drop canvas, 1,200+ scoped tools, 100+ subagent templates, 16 prebuilt crews. Bring any of 20+ AI providers per agent (Claude, GPT, Gemini, Mistral, DeepSeek, Ollama, LM Studio, ...). Native MCP client. Includes a 7-persona Trading Crew (Macro, TA, Quant, Sentiment, Risk, Portfolio, Execution) wired to a Rust engine at 420 ns per bar across 65 CEX + 6 prediction markets, with HITL approval on every order.
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
